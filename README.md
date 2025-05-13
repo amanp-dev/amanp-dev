@@ -69,9 +69,3 @@ I'm a backend developer with strong skills in building robust and scalable backe
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=amanp-dev&show_icons=true&theme=tokyonight" alt="Aman's GitHub stats" />
-</p>
